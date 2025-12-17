@@ -6,3 +6,4 @@ check next week : )
 
 update: I did managed to get some stuff out of the data check notebook for more info. 
 
+update #2: i have started doing the report and will be finishing this readme file. (I will be clearing all this BS i wrote).
