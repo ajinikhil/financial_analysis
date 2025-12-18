@@ -22,15 +22,27 @@ Weekly returns were calculated by taking the percentage change in weekly closing
 
 ## **Closing Price Trend**
 
+The closing price was plotted to observe the overall closing price movement and trends
+
+__Observations:__
+* The stock (APPL) shows an upward trend over the period, which indicates a positive performance. Over the years there were some short term fluctuations especially during the period of mid 2022 to 2023 and during 2025. 
+
+
 ![Closing price trend plot](Assets/closing_price_trend.png)
+
+___fig:1.0 Closing Price Trend___
 
 ## **Trend Analysis: 10 Week Moving Average (MA)**
 
 ![Trend Analysis plot](Assets/weekly_price_trend(MA).png)
 
+___fig:2.0 Trend analysis of 10 Week moving average___
+
 ## **Cumulative Returns**
 
 ![Cumulative Returns](Assets/cumulative_returns.png)
+
+___fig:3.0 Cumulative Returns___
 
 ## **Conclusion**
 
