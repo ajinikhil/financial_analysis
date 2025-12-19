@@ -34,6 +34,8 @@ ___fig:1.0 Closing Price Trend___
 
 ## **Trend Analysis: 10 Week Moving Average (MA)**
 
+The weekly closing price of APPL is analyzed with the 10-week Moving Average (MA). The MA helped to reduce the noise in weekly price. From 2020 onward the APPL shows an upward trend wiuth the weekly closing price and moving average increasing over time. This trend indicates growth despite some short term volatility
+
 ![Trend Analysis plot](Assets/weekly_price_trend(MA).png)
 
 ___fig:2.0 Trend analysis of 10 Week moving average___
