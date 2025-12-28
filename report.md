@@ -60,6 +60,4 @@ ___fig:3.0 Cumulative Returns___
 
 ## **Conclusion**
 
-
-
-
+This report analyzes the historical price behavior of Apple Inc. (AAPL) from 2020 to 2025 using closing price trends, trend analysis and cumulative returns. This analysis showed a long term upward trend in the stock price.
